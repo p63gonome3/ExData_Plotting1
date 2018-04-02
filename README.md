@@ -1,3 +1,6 @@
+## Note
+This Peer Graded Assignment is submitted in compliance to Coursera - Exploratory Data Analysis for DOST-PCIEERD
+
 ## Introduction
 
 This assignment uses data from
